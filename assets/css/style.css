@@ -463,6 +463,7 @@ main {
   font-size: var(--fs-8);
   padding: 20px 7px;
   transition: color var(--transition-1);
+  margin-left: -10px;
 }
 
 .navbar-link:hover,
